@@ -1,0 +1,13 @@
+Bug:
+2. Điểm quá 10
+3. Nút tìm kiếm form dsmh đã đk.
+4. DSMH thiếu mã môn học
+5. Thêm mới giáo viên không tự nhảy mã gv (vd xoá 1 thì thêm mới không vào 1)
+6. Lớp đang hoạt động vẫn xoá được
+
+
+Feature:
+1. Chỉ xoá gv khi không còn lớp hoạt động.
+
+Đã fix:
+1. Thêm môn học nhưng không xuất hiện trong đăng kí môn học của sinh viên => thêm lớp không vào database. 
